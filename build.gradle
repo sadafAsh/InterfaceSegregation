@@ -38,8 +38,8 @@ sonarqube {
         property "sonar.exclusions", "**/*Main.java"
 
         property 'sonar.host.url', 'http://localhost:9000'
-        property 'sonar.login','013d9dff811b8ddf7ea9e53b9b3372aa175c2a48'
-        property 'sonar.projectKey','AbstractFactoryPattern'
+        property 'sonar.login','1fa14e7c8b2934aad0e4bcd64b3175d5308f09fb'
+        property 'sonar.projectKey','InterfaceSegregation'
     }
 }
 

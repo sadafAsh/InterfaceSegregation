@@ -1,2 +1,3 @@
-DEBUG [main] 2022-02-12T16:15:34,874  (line ) Received order of 5 burgers .
-DEBUG [main] 2022-02-12T16:15:34,876  (line ) Received order of both 4 burgers and 5 fries in combo  .
+DEBUG [Test worker] 2022-02-12T16:34:53,431  (line ) Received order of 5 burgers .
+DEBUG [Test worker] 2022-02-12T16:34:53,446  (line ) Received order of both 6 burgers and 3 fries in combo  .
+DEBUG [Test worker] 2022-02-12T16:34:53,449  (line ) Received order of 4 fries .
