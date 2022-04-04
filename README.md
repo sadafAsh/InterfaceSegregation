@@ -13,12 +13,8 @@ The Problems Of Interface Segregation Principle:
 a  change in an interface forces to change classes that don't implement the interface.
    
 JunitTest:
-     There is Junit Test for all the type of Interface Segregation Principle and test coverage in jacoco report is 100% 
+     The Junit Test is done for all the type of "Interface Segregation Principle" and test coverage in jacoco report is 100% 
 successful.
-
-   
-      The  Junit Test is done of all the entities in  "factory pattern" project and test coverage 
-is 100% successful in jacoco report.
 
        
   SONARQUBE :
