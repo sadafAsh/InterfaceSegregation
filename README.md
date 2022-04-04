@@ -6,7 +6,7 @@ class can implement it.
        In these project,suppose customer can order a "Burger", "Fries" or a "Combo" of both in burger place.Since  customer
 cannot order burger ,fries,or combo from a single interface.To implement a burger-only order,we are forced to throw an 
 exception in the other method. Similarly,for a fries-only order,we need to throw an exception in other two.Similarly,
-for combo.So for all three class(Burger,Fries,Combo) make three seperate interfaces which can be esy to use.
+for combo.So for all three class(Burger,Fries,Combo) make three separate interfaces which can be esy to use.
 
 The Problems Of Interface Segregation Principle:
        Client developers are confused by methods which don't need.Maintenance becomes harder because of side effects,
